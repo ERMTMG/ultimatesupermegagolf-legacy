@@ -1,7 +1,3 @@
 # Ultimate Super Mega Golf
-##### The golf game we don't need, but the one we deserve
-
-Ultimate Super Mega Golf is a small minigolf-style game I'm making in C++ using the [raylib](https://www.raylib.com/) and [EnTT](https://github.com/skypjack/entt) libraries, and (hopefully!) nothing else. Of course, I am aware that this is not the _best_ way there is to develop a game, but I'm mostly just doing this to dip my toes into low-level game development and because I like the multi-paradigm mess that is C++.
-
-As for builds, I don't have anything yet because the code is far from being finished... (There _is_ an executable in `bin/` but it literally just has a test of an array class). 
-
+## This repository will not be updated
+This repository is old and as such it contains old stinky code and doesn't really align with my vision of the project anymore. It won't be updated anymore. However, it's being rebuilt from scratch in [this new repository](https://github.com/ERMTMG/ultimate-super-mega-golf/)!
